@@ -26,7 +26,7 @@ func main() {
 
 	totalDiasPerdido := totalDeMinutosPerdido / 1440
 
-	fmt.Printf("\nVocê perderá aproximadamente %d dias de vida.\n", totalDiasPerdidos)
+	fmt.Printf("\nVocê perderá aproximadamente %d dias de vida.\n", totalDiasPerdido)
 }
 
 // ANO 360
